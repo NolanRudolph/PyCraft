@@ -1,0 +1,4 @@
+port: 4711
+pysvr_port: 32123
+pyexe: "python.exe"
+pypath: "/c/Users/skate/Documents/Python 3.7.2"
